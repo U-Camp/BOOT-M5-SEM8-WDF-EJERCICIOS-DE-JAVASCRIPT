@@ -14,3 +14,4 @@
 - **Ejercicio Bonus:** Escribe un programa que pida una frase y escriba cuántas de las letras que tiene son vocales.
 
 >#### ¿Cómo vas?, ¿lo lograste?, espero que si y que estes aprendiendo muchísimo, ya que cada vez que realizas un ejercicio, practicas tu lógica y tu lógica permitirá que tus desarrollos sean mucho mejores.
+>#### Nos vemos luego...
